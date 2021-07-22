@@ -106,8 +106,17 @@ body {
   font-weight: 300;
   font-style:italic;
   text-align: center;
+  font-size: 2.5rem;
 }
 
 .text h1 {
     font-size: 1.4em;
   }
+
+  .entry{
+    background-color: #000211;
+    height: 100%;
+    width: 100%;
+  }
+
+  *{margin: 0;}
